@@ -13,7 +13,7 @@ int main() {
     int players_cards [MAX_CARDS];
     int dealers_cards [MAX_CARDS];
     
-    srand(time(0)); // Rastgelelik ayar
+    srand(time(0)); // Rastgelelik ayarı
     printf("Welcome to Blackjack!\n");
 
     do {
